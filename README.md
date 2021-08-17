@@ -1,4 +1,10 @@
-<h1> Back-End com Firebase - PT-BR</h1>
+<head>
+  <title> Back-End com Firebase - PT-BR </title>
+</head>
+
+<body>
+
+  <h1> Back-End com Firebase - PT-BR </h1>
 
 <p>
     BackEnd com modulo de criação e login e autenticação no firebase, tudo passado por middleware's
@@ -37,3 +43,5 @@
 
   <p><b>ATENÇÃO TESTE PARA FUNCIONALIDADE DO FIREBASE NÃO FUNCIONAM</b></p>
 </p>
+
+</body>
