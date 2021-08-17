@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "study-chess-clash",
+  "private_key_id": "6d5beb8887df4c75076cf95fac0c7f7772a59505",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1FtC6Al7DXu+R\nSt62M4ZpESz08SOkP7P/P2C72L7dosT1OHz9qYDswNJmRZAkl7/vKGInQamWtSMa\naftQXS+ClEqIqIiCff1WPcadZ+mjRgQeSxPzXolM+5CTW9HmYYILP4k7oW6maMA/\n+nNFRf5zbzo425cIej2ofhGafndgoOoCBX2MgGyiMBOU86XMqPoCPjtfvs2aoKcT\ns+A6nlfGl9qQU3/m7+sqZWzBTx2I2Oge5vWsstnw7R7LrcyjsQZlFqcM3WD3NZ1B\nIlRkZXZWFliD5SZCj0DpUXSqp1WBGvtTVMdzeTqJiFtqgTfNE+s7TmUx6GZxKjW5\nKOfBroQ/AgMBAAECggEAMBv+mdw1Vswq8zujzV4E8Hbarbw+js1JwZ8R0PX1RyaO\nEuPN+QoGMV/MxdTnRYF3QU9GPE2qg1peGA9d7+zByXwiDQpRMfHM0xOYZ4sKvBDG\n2VFy3G4aJfSTZUK4ke8HwHtBtzDdF6KuqJCd/SJqRjqfiil0h5EKPnA3twawKmBD\nQMaXhnswYuBlmTVj2WWpZmVxM6yancV8XFNbk0CPDwKT2R6lMti9LE/uiDsngi8d\nhpd78BfG2XEfsl9T08VrMPr1GiH6rKeWmByMJc+PM9sgy7cgd4OTfFqpZskK23wb\nj92WgOfhYPHI8z2RNIPGnmH7gT2qSaBx/Tx6Lv0XMQKBgQDaXQj9dkJ0IFUUeIcE\nHdCaLf8jd0gBCQcARofrXRsaWYKeCzbVOqs7PRkl7OXJgQf5cPqIwEagIMm98JsZ\nUrR/SVIve2u7OhSyB+RGvJpiXZjJP6pawdR+b/8ZgdgIVNe7J9rdm1WrXCUhUJ6x\nuDKpFCGP0F5jNRaMrnpUmt/AlwKBgQDUTRtQauS5LdB2QhCpSan5Om/ikAa51Mc+\npUzkugvUWP0jw5RJ2BmTow8oOsujf0WMgmqLA0alGaQATmffv5iat4SQqlmnhfUv\n+xqdTUik+A8oRZkkxaxDHVIYU3ywR8myiGn0c+4Qd2bf++HmUFNpynn0SL8sE4dl\nYbCCbVImmQKBgQCEiWeFgBwBpAY/8I/yna4ZhsWPXzzi8/m93xFseAyVR7MR/jh/\n36ZCxGjZLhqi3aBbdIl8K0gytPP+R2W8TwijIXuyujS/ZRden4+cp6kE/05XCD97\n6p3xSEUL1FWtaOGwBRbA3yF2au1WdTp9IBIPsdpVEeHYUUaoiNZTN9WLbQKBgGem\nwcgweD1E9ftW5AWS9o69DjVCdlYyYZjfYbxmbTIexHC6o2KuREaFnPfaROQtVkp0\nvgni7pHbA+w2W5atV5dqNCnhUeZti7kCUwsr2WTZy6Sw3kVK0YDvBs7jrAPw+LPW\n0ExOcZPOiAahVrh4zVDgT0yKW/PsEPXZjTEQqMQ5AoGAZgxaqCRBI+1xpGIyas5O\niMvywxKrJXyGo30LUj6Kq6++M9SNmi/7FFpAeE/HFILfpGzB4uPMQiIwR65jkftH\n6oKJd4+PPoOEYXd5qW6htI6J9BXw90bjLwP5uR2l7zTDGtaRTAZl+OMGX898Z1aZ\nmJb7qCVNl6Dnm6gPKBxmVCc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-zcpgs@study-chess-clash.iam.gserviceaccount.com",
+  "client_id": "104602964474105843873",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-zcpgs%40study-chess-clash.iam.gserviceaccount.com"
+}
