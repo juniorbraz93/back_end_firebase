@@ -1,6 +1,4 @@
-<head>
   <title> Back-End com Firebase - PT-BR </title>
-</head>
 
 <body>
 
