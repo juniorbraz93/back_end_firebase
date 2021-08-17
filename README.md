@@ -1,7 +1,3 @@
-  <title> Back-End com Firebase - PT-BR </title>
-
-<body>
-
   <h1> Back-End com Firebase - PT-BR </h1>
 
 <p>
@@ -41,5 +37,4 @@
 
   <p><b>ATENÇÃO TESTE PARA FUNCIONALIDADE DO FIREBASE NÃO FUNCIONAM</b></p>
 </p>
-
-</body>
+s
